@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Colton Botta"
+# title: "Colton Botta"
 author_profile: true
 redirect_from: 
   - /about/

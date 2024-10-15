@@ -10,7 +10,7 @@
 locale: "en-US"
 title: "Colton Botta"
 title_separator: "-"
-name: &name "Colton Botta"
+# name: &name "Colton Botta"
 description: &description "PhD Student @ University of Edinburgh"
 url: https://cgbotta.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ author:
   avatar: "profile.png"
   name: "Colton Botta"
   pronouns: # example: "she/her"
-  bio: "PhD Student @ University of Edinburgh"
+  bio: "PhD Student @ University of Edinburgh - 2021 Marshall Scholar"
   location: "Edinburgh, Scotland"
   # employer: "Red Brick University"
   uri: # URL

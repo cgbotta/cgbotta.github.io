@@ -18,7 +18,7 @@ Education
 * BS in Computer Science, North Carolina State University, 2019
   * Graduated Valedictorian
 
-Work experience
+<!-- Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
@@ -64,4 +64,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
