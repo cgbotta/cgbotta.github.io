@@ -11,9 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Informatics, University of Edinburgh, 2028 (expected)
+* MPhil in Engineering, Cambridge, St. John's College, 2023
+* MSc in Cognitive Science, University of Edinburgh, 2022
+  * Distinction
+* BS in Computer Science, North Carolina State University, 2019
+  * Graduated Valedictorian
 
 Work experience
 ======
