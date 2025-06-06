@@ -7,12 +7,13 @@ main:
   - name: Home
     url: '/index.html'
     weight: 10
-  - name: News
-    url: '#news'
-    weight: 20
-  - name: Team
-    url: '#group'
-    weight: 30
+  # - name: News
+  #   url: '#news'
+  #   weight: 20
+  # Team section hidden
+  # - name: Team
+  #   url: '#group'
+  #   weight: 30
   - name: Publications
     url: '#publications'
     weight: 40

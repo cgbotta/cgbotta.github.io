@@ -1,6 +1,6 @@
 ---
-date: 2025-09-01
-publishDate: 2025-09-01
+date: 2025-06-06
+publishDate: 2025-01-06
 external_link: ""
 image:
   caption: Marcelle Sera

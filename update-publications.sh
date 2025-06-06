@@ -22,7 +22,17 @@ TARGET_PATH="../../content/publications/"
 
 if [ -f "$SCRIPT" ]; then
     echo "Executing $SCRIPT with path $TARGET_PATH"
-    python3 "$SCRIPT" "$TARGET_PATH"
+    # Check if we have a virtual environment in the user's scholar-collector directory
+    USER_VENV="/Users/coltonbotta/Documents/Development/Personal Website/scholar-collector/venv"
+    if [ -d "$USER_VENV" ]; then
+        echo "Using virtual environment from scholar-collector directory"
+        source "$USER_VENV/bin/activate"
+        python3 "$SCRIPT" "$TARGET_PATH"
+        deactivate
+    else
+        echo "No virtual environment found, trying with system Python"
+        python3 "$SCRIPT" "$TARGET_PATH"
+    fi
 else
     echo "Error: Script '$SCRIPT' not found in the submodule directory."
     exit 1
