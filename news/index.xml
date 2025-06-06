@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>News | Colton Botta</title><link>https://coltonbotta.com/news.html</link><atom:link href="https://coltonbotta.com/news/index.xml" rel="self" type="application/rss+xml"/><description>News</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 25 May 2025 00:00:00 +0000</lastBuildDate><image><url>https://coltonbotta.com/media/logo_hu_c612adc5f3075c4f.png</url><title>News</title><link>https://coltonbotta.com/news.html</link></image><item><title>Running for the CNRS National Committee – Section 08</title><link>https://coltonbotta.com/news/2025-conrs.html</link><pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><guid>https://coltonbotta.com/news/2025-conrs.html</guid><description>&lt;p>I am running as a candidate for the &lt;em>Collège B1&lt;/em> of the new Section 08 of the CoNRS:&lt;br>
+&lt;strong>Physique de la matière complexe et du vivant&lt;/strong> (Physics of Complex Matter and Life).&lt;/p>
+&lt;p>&lt;strong>Personal statement (See French version here below)&lt;/strong>&lt;/p>
+&lt;p>Recruited at LIPhy in 2023 by the former Section 11, I study soft matter systems
+(polymers, bio-inspired systems, nanoporous materials), with a focus on the
+behavior of molecules at interfaces. I primarily use molecular simulation, and my
+background, which combines simulations and experiments, facilitates my
+collaborations with experimentalists (NMR, neutrons, X-rays). I also dedicate time
+to creating open and freely accessible educational content for both beginners and
+experts.&lt;/p>
+&lt;p>The CNRS remains one of the few institutions that guarantees independent research
+that is not subject to trends—an essential condition for producing critical, open,
+and long-term knowledge. In this regard, the National Committee plays a
+fundamental role as a space for scientific collegiality, debate, and counterbalance.&lt;/p>
+&lt;p>As an elected member, I am committed to fully dedicating myself to the National
+Committee and to contributing to recruitment and evaluation processes in a
+thoughtful way, not based solely on bibliometric indicators. I will work to equally
+defend interdisciplinarity, established disciplines, and emerging themes.&lt;/p>
+&lt;p>&lt;strong>Profession de foi (In French)&lt;/strong>&lt;/p>
+&lt;p>Recruté au LIPhy en 2023 par l’ancienne Section 11, j’étudie les systèmes de la
+matière molle (polymères, systèmes bio-inspirés, matériaux nanoporeux), avec un
+intérêt pour le comportement des molécules aux interfaces. J’utilise principalement
+la simulation moléculaire, et mon parcours mêlant simulations et expériences facilite
+mes collaborations avec les expérimentateurs (RMN, neutrons,
+rayons X). Je consacre aussi du temps à la création de contenus pédagogiques
+libres et ouverts pour débutants et experts.&lt;/p>
+&lt;p>Le CNRS reste l’un des rares organismes à garantir une recherche indépendante et
+non soumise aux effets de mode, conditions indispensables à la production de
+savoirs critiques, ouverts et de long terme. À ce titre, le Comité National joue un rôle fondamental
+en tant qu’espace de collégialité scientifique, de débat et de contre-pouvoir.&lt;/p>
+&lt;p>En tant que membre élu, je m’engage à me consacrer pleinement au Comité National
+et à contribuer aux recrutements et aux évaluations de façon raisonnée et non
+fondée uniquement sur des indicateurs bibliométriques, afin de défendre de manière égale
+l’interdisciplinarité, les disciplines reconnues et les thématiques émergentes.&lt;/p></description></item><item><title>I am migrating to the Fediverse</title><link>https://coltonbotta.com/news/2025-mastodon.html</link><pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate><guid>https://coltonbotta.com/news/2025-mastodon.html</guid><description>&lt;p>Starting now, I am migrating to the Fediverse and
+will no longer be publishing on X. This also applies to the communication
+associated with the LAMMPS Tutorials organization.
+The main exceptions are my LinkedIn and Youtube accounts that I am keeping (for now).&lt;/p>
+&lt;p>The Fediverse is a network of social
+platforms. Its decentralized nature prevents corporate monopolies and censorship.&lt;/p>
+&lt;p>You can follow me on Mastodon (&lt;a href="https://mastodon.social/@simongravelle%29" target="_blank" rel="noopener">https://mastodon.social/@simongravelle)&lt;/a>, where
+I will primarily post about science, molecular simulations, and open-source projects.&lt;/p></description></item><item><title>New ANR project - CO₂ capture by foam</title><link>https://coltonbotta.com/news/2025-anr-miamco2.html</link><pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate><guid>https://coltonbotta.com/news/2025-anr-miamco2.html</guid><description>&lt;p>This marks the official start of an ANR project led by Elise Lorenceau, in collaboration
+with the CEA. Together, we aim to demonstrate the feasibility of a foam reactor
+for CO₂ capture.&lt;/p></description></item><item><title>Focus on Learn Molecular Simulation with Python</title><link>https://coltonbotta.com/news/2024-mdcourse.html</link><pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate><guid>https://coltonbotta.com/news/2024-mdcourse.html</guid><description>&lt;p>&lt;a href="https://mdcourse.github.io/" target="_blank" rel="noopener">Learn Molecular Simulations with Python&lt;/a>
+is designed as a step-by-step guide to developing simple Python code that
+includes the basic functionalities of molecular dynamics and Monte Carlo
+simulations. The main goal is to help users understand the fundamentals of
+molecular simulation algorithms. The scripts will also be used for small
+scientific projects. In particular, some of the earliest results obtained
+from molecular simulations, including the pioneering works by Metropolis,
+Rosenbluth, Wood, and Parker in the 1950s, will be re-explored.&lt;/p>
+&lt;p>If you want to take part in the project, reach out to me on
+&lt;a href="https://github.com/mdcourse" target="_blank" rel="noopener">GitHub&lt;/a>. I am looking for contributors
+(co-writers, testers).&lt;/p>
+&lt;p>This project has received funding from the European Union&amp;rsquo;s Horizon 2020
+research and innovation programme under the Marie Skłodowska-Curie grant
+agreement No 101065060.&lt;/p></description></item><item><title>PostDoc Position Available in LIPhy (Filled)</title><link>https://coltonbotta.com/news/2024-postdoc-offer.html</link><pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate><guid>https://coltonbotta.com/news/2024-postdoc-offer.html</guid><description>&lt;p>&lt;strong>Scope.&lt;/strong>&lt;/p>
+&lt;p>Polymers are versatile, durable, and cost-effective materials essential in packaging, construction, and electronics. Polymers of Intrinsic Microporosity (PIMs) represent a special class with rigid ring-shaped molecules forming interconnected voids of 0.2 to 2 nanometers. PIMs have high specific surface areas and are scalable, making them ideal for gas adsorption and mixture separation. However, only a few fluid mixtures can currently be separated using nanoporous materials, with most methods still relying on costly thermal processes such as distillation. Developing new nanopore-based separation processes could address environmental issues such as water contamination and CO2 emissions. To facilitate the emergence of these new processes, a better understanding of the complex behaviors of nanoconfined fluid mixtures is crucial. Achieving this goal requires novel multiscale approaches to connect the molecular details of confined molecules at the nanoscale to macroscopic transport properties. The aim of this postdoctoral position is to correlate the molecular properties of fluid mixtures in a microporous polymer with its large-scale permeability and selectivity.&lt;/p>
+&lt;p>&lt;strong>Activities&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Development of realistic models of mixtures in microporous polymers using molecular simulations.&lt;/li>
+&lt;li>Characterization of the structural and dynamic properties of confined fluids and their interactions with polymer surfaces.&lt;/li>
+&lt;li>Upscaling of molecular results to the macroscopic scale using a lattice-based approach.&lt;/li>
+&lt;li>Utilization of the lattice model to predict the macroscopic permeability and selectivity of PIM membranes.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Skills&lt;/strong>&lt;/p>
+&lt;p>The postdoctoral candidate must hold a PhD in physics, statistical mechanics, physical chemistry, or materials science, and have some experience in scientific programming and molecular simulations.&lt;/p>
+&lt;p>&lt;strong>Work Context&lt;/strong>&lt;/p>
+&lt;p>LIPhy is an interdisciplinary physics laboratory that brings together experts in the theory and experimentation of soft matter systems and fluids at interfaces. Located in Grenoble, LIPhy is surrounded by physics, chemistry, and biology laboratories, offering potential collaboration opportunities with experimental groups (SAXS, SANS, etc.) based on the candidate&amp;rsquo;s interests.&lt;/p>
+&lt;p>The position is located in a sector under the protection of scientific and technical potential (PPST), and therefore requires, in accordance with the regulations, that your arrival is authorized by the competent authority of the MESR.&lt;/p>
+&lt;p>&lt;strong>Starting date&lt;/strong>&lt;/p>
+&lt;p>February 2025, or after.&lt;/p>
+&lt;p>&lt;strong>Apply.&lt;/strong>&lt;/p>
+&lt;p>Candicates can apply from the &lt;a href="https://emploi.cnrs.fr/Offres/CDD/UMR5588-SIMGRA-001/Default.aspx?lang=EN" target="_blank" rel="noopener">CNRS website&lt;/a>.&lt;/p></description></item></channel></rss>
