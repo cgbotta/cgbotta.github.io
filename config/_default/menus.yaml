@@ -15,6 +15,10 @@ main:
   #   url: '#group'
   #   weight: 30
   - name: Publications
-    url: '#publications'
+    url: 'https://scholar.google.com/citations?user=bMwZVkAAAAAJ&hl=en'
     weight: 40
+  - name: CV
+    url: 'files/resume/2025___ML_Jobs_Base_CV.pdf'
+    weight: 50
+    
   

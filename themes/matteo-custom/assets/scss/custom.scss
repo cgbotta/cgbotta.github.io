@@ -1,1 +1,29 @@
 // Override this file to add your own SCSS styling.
+
+// Publication list styling for improved readability
+.pub-list-item {
+  margin-bottom: 1.8rem !important;
+  
+  .pub-title {
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin-bottom: 0.4rem;
+    line-height: 1.3;
+  }
+  
+  .pub-authors {
+    font-size: 0.9rem;
+    margin-bottom: 0.3rem;
+    line-height: 1.4;
+  }
+  
+  .pub-venue {
+    font-size: 0.9rem;
+    font-style: italic;
+    margin-bottom: 0.3rem;
+  }
+  
+  .pub-links {
+    margin-top: 0.4rem;
+  }
+}

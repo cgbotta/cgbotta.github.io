@@ -66,9 +66,11 @@ highlight_name: true # Highlight the author in author lists? (true/false)
 
 ### About me ##
 
-Hi, I’m Colton! I’m a PhD Student in the <a href="https://informatics.ed.ac.uk/ilcc"> Institute for Language, Cognition and Computation</a> and <a href="https://www.de.ed.ac.uk">Centre for Digital Education</a> at the University of Edinburgh, where I’m supervised by <a href="https://www.ed.ac.uk/school-of-informatics/people/judy-robertson">Judy Robertson</a>. My research explores the role of Generative AI in the classroom, the future of education, and how we can design and implement new AI tools while prioritizing young people's voices, experiences, and rights. Previously, I spent time as a Software Engineer at Pendo, IBM, and Covestro. 
+Hi, I’m Colton! I’m a PhD Student in the <a href="https://informatics.ed.ac.uk/ilcc" target="_blank"> Institute for Language, Cognition and Computation</a> and <a href="https://www.de.ed.ac.uk" target="_blank">Centre for Digital Education</a> at the University of Edinburgh, where I’m supervised by <a href="https://www.de.ed.ac.uk/people/professor-judy-robertson" target="_blank">Judy Robertson</a> and <a href="https://efi.ed.ac.uk/people/shannon-vallor/" target="_blank">Shannon Vallor</a>. My research explores the role of Generative AI in the classroom, the future of education, and how we can design and implement new AI tools while prioritizing young people's voices, experiences, and rights. Previously, I spent time as a Software Engineer at Pendo, IBM, and Covestro. 
 
-I hold an MPhil in Engineering from the Machine Learning Group at the University of Cambridge and an MSc with Distinction in Cognitive Science from the University of Edinburgh, both funded by a <a href="https://www.marshallscholarship.org">Marshall Scholarship</a>, as well as a BS in Computer Science from North Carolina State University. 
+I hold an MPhil in Engineering from the Machine Learning Group at the University of Cambridge and an MSc with Distinction in Cognitive Science from the University of Edinburgh, both funded by a <a href="https://www.marshallscholarship.org" target="_blank">Marshall Scholarship</a>. I completed my BS in Computer Science from North Carolina State University. 
+
+
 
 
 
