@@ -1,4 +1,6 @@
 ---
+# Disable this section
+active: false
 widget: pages
 
 # This file represents a page section.
